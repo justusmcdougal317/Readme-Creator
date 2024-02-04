@@ -1,1 +1,1 @@
-# Readme-Creator
+Goal was to create a command line application that could easily generate a readme file leaving more time to work on project at hand. This was done by using an inquirer package that takes users input and creates the readme file. Js was used to lay down functionality and to tailor command line application, package.json was used to link dependencies,start commands and main file for app. Everything combined created the successful command line application instantly rendering a completed read me.
